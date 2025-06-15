@@ -1,4 +1,4 @@
-# Crypto Signals
+#Bahramkaramiany1350 Crypto Signals
 
 ### Development state: Beta (Code is stable, documentation is often lagging)
 
